@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/518894292751876995/edaacc0cd1664192a1e944c2c45e3474/artifacts
+end_time: 1743440619287
+entry_point_name: ''
+experiment_id: '518894292751876995'
+lifecycle_stage: active
+run_id: edaacc0cd1664192a1e944c2c45e3474
+run_name: delicate-cub-195
+run_uuid: edaacc0cd1664192a1e944c2c45e3474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743440614442
+status: 3
+tags: []
+user_id: root
